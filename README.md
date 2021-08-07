@@ -1,6 +1,9 @@
-# seven_segments_display
+# Display de 7 segmentos
 
-A new Flutter project.
+Projeto focado em lógica de programação, fazendo manualmente com as ferramentas que o Flutter proporciona um display de 7 segmentos interativo.
+
+![image](https://user-images.githubusercontent.com/86531099/128583274-fd1921e6-85e4-46c7-9cb7-b3b6489f6d3d.png)
+
 
 ## Getting Started
 
